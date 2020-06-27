@@ -14,7 +14,7 @@ assignees: ''
 ## Speaker Demographics
 
 - [ ] This event commits to Speaker Diversity & Inclusion.
-  - `Q` Detail the process for measuring Speaker Demographics.
+  - `Q` Detail the process for measuring Speaker Demographics.<br />
     `A` <!--Descriptive answer-->
   - `Q` Give the link for the page related to Speaker Demographics if available.
     `A`
