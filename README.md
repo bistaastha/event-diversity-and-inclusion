@@ -1,6 +1,34 @@
 # Diversity and Inclusion Badging for Events
 
-Please see the Diversity and Inclusion [Event Submission Guidelines] to apply for an Event badge.
+## Table of contents
+
+- [Overview of the application process](#overview-of-the-application-process)
+- [Applying for a Badge](#applying-for-a-badge)
+- [Badge Table](#badge-table)
+
+## Overview of the Application process
+
+The CHAOSS Badging Application process when an applicant opens a Pull Request adding to the entries to the [Badge Table](#badge-table). While creating the Pull Request, the associated Pull Request template has a set of questions which need to be answered by the Applicant, and this is the information that is used for reviews. When the Pull Request is created, a Moderator/Maintainer assigns two or more reviewers to the Pull Request. For each reviewer, a Checklist is generated as a Pull Reuest comment. This Checklist contains a list of things a reviewer looks for in an Application. A checklist is divided in four sections:
+- Initial Checks - These consist of things absolutely required in an Application.
+- Reviewer Checks - This is the part where the reviewer tell about their prior association with the Applicant or their organisation, if any.
+- Metric Based Checks - This is the part on which the Badge which is assigned depends. The above two sections have to filled out completely by the reviewer in order for these to be considered.
+- Reviewer Recommendation - This is the final section where the Reviewer needs to recommend the Badge the Application should be assigned according to the checklist.
+
+While the Application process goes on, the reviewer gives their feedback - along with filling the checklist - to the Applicant on the parts of the application that can be improved. Once the final recommendations are made by all reviewers, the moderator steps into the process to assign the final badge. This badge is added as another commit in the same Pull Request by the Moderator/Maintainer. When the PR is merged the process is complete.
+
+## Applying for a Badge
+
+In order to Apply for a Badge, make sure the Event you are applying with meets these [Requirements](./submission/requirements.md).
+
+Applying for a Badge is a three step process:
+1. Add Event details to the [Badge Table](#badge-table)
+2. Propose changes by `Creating a Pull Request` for the `master` branch of this repository
+3. Check the box marked as `Allow edits by maintainers` and fill out the PR template
+
+When the Pull Request is created, a moderator will shortly assign reviewers. As an Applicant, you will be required to integrate feedeback from reviewers into your Application and data, and if necessary, provide more information about the processes followed in collecting demographic data.
+
+
+## Badge Table
 
 Date        | Event name                                       | Badge              |Application PR link     |
 ------------|--------------------------------------------------|--------------------|------------------------|
